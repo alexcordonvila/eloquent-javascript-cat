@@ -4,17 +4,16 @@
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and Its Discontents", chapter: true}
 
-We think we are creating the system for our own purposes. We believe we are making it in our own image... But the computer is not really like us. It is a projection of a very slim part of ourselves: that portion devoted to logic, order, rule, and clarity.
-
+Creiem que estem creant el sistema per als nostres propis propòsits. Creiem que ho estem fent a la nostra pròpia imatge... Però la computadora, en realitat, no és com nosaltres. És una projecció d'una part molt petita de nosaltres mateixos: aquella part dedicada a la lògica, a l’ordre, a la regla i a la claredat..
 quote}}
 
 {{figure {url: "img/chapter_picture_00.jpg", alt: "Illustration of a screwdriver next to a circuit board of about the same size", chapter: "framed"}}}
 
-This is a book about instructing ((computer))s. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want them to do isn't always easy.
+Aquest és un llibre sobre com instruir els ordinadors. Avui dia, els ordinadors són tan comuns com els tornavisos, però són força més complexos, i fer que facin exactament el que vols no sempre és fàcil.
 
-If the task you have for your computer is a common, well-understood one, such as showing you your email or acting like a calculator, you can open the appropriate ((application)) and get to work. But for unique or open-ended tasks, there often is no appropriate application.
+Si la tasca que vols que l’ordinador realitzi és comuna i ben entesa, com per exemple mostrar un correu electrònic o actuar com una calculadora, pots obrir l’((aplicació)) adequada i començar a treballar. Però per a tasques úniques o més abstractes, sovint no existeix cap aplicació adecuada.
 
-That is where ((programming)) may come in. _Programming_ is the act of constructing a _program_—a set of precise instructions telling a computer what to do. Because computers are dumb, pedantic beasts, programming is fundamentally tedious and frustrating.
+Aquí és on pot entrar en joc la ((programació)). _Programar_ és l’acte de construir un _programa_—un conjunt d’instruccions precises que indiquen a l’ordinador què ha de fer. Com que els ordinadors són besties tontes i pedants, la programació és fonamentalment feixuga i frustrant.
 
 {{index [programming, "joy of"], speed}}
 
