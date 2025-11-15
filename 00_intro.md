@@ -17,17 +17,17 @@ Aquí és on pot entrar en joc la ((programació)). _Programar_ és l’acte de 
 
 {{index [programming, "joy of"], speed}}
 
-Fortunately, if you can get over that fact—and maybe even enjoy the rigor of thinking in terms that dumb machines can deal with—programming can be rewarding. It allows you to do things in seconds that would take _forever_ by hand. It is a way to make your computer tool do things that it couldn't do before. On top of that, it makes for a wonderful game of puzzle solving and abstract thinking.
+Per sort, si pots superar aquest fet—i fins hi tot gaudir del rigor de pensar en termes que les màquines tontes poden entendre—la programació pot resultar gratificant. Et permet fer en segons allò que a mà et portaria una eternitat. És una manera de fer que la nostra eina d'informàtica faci coses que abans no podia fer. A més, es converteix en un magnífic joc de resolució d'enigmes i de pensament abstracte.
 
-Most programming is done with ((programming language))s. A _programming language_ is an artificially constructed language used to instruct computers. It is interesting that the most effective way we've found to communicate with a computer borrows so heavily from the way we communicate with each other. Like human languages, computer languages allow words and phrases to be combined in new ways, making it possible to express ever new concepts.
+La major part de la programació es du a terme usant ((llenguatges de programació)). Un _llenguatge de programació_  és un llenguatge construït artificialment que s’utilitza per donar instruccions als ordinadors. És interessant que la manera més efectiva que hem trobat per comunicar-nos amb un ordinador s’inspiri tant en la manera com ens comuniquem entre nosaltres. Igual que els llenguatges humans, els llenguatges informàtics permeten combinar paraules i frases de formes noves, fent possible expressar conceptes nous.
 
 {{index [JavaScript, "availability of"], "casual computing"}}
 
-At one point, language-based interfaces, such as the BASIC and DOS prompts of the 1980s and 1990s, were the main method of interacting with computers. For routine computer use, these have largely been replaced with visual interfaces, which are easier to learn but offer less freedom. But if you know where to look, the languages are still there. One of them, _JavaScript_, is built into every modern web ((browser))—and is thus available on almost every device.
+En un moment donat, les interfícies basades en llenguatges, com els símbols del BASIC i del DOS dels anys vuitanta i noranta, eren el principal mètode d’interacció amb els ordinadors. Per a l’ús informàtic rutinari, aquestes han estat substituïdes en gran part per interfícies visuals, que són més fàcils d’aprendre però ofereixen menys llibertat. Però, si saps on mirar, aquests llenguatges encara són allà. Un d’ells, _JavaScript_, està integrat en tots els ((navegadors web)) moderns—i, per tant, el trobem disponible en gairebé qualsevol dispositiu.
 
 {{indexsee "web browser", browser}}
 
-This book will try to make you familiar enough with this language to do useful and amusing things with it.
+Aquest llibre intentarà familiaritzar-te prou amb aquest llenguatge perquè hi puguis fer coses útils i entretingudes.
 
 ## On programming
 
